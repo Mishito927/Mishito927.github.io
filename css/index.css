@@ -1,0 +1,7 @@
+.bg-image {
+    background-image: url('https://via.placeholder.com/1200x600');
+    background-size: cover; /* Ajusta la imagen para cubrir todo el área */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que se repita */
+    height: 400px; /* Altura del contenedor */
+}
